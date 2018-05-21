@@ -1,0 +1,13 @@
+package cn.itcast.core.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class CenterController {
+ 
+	public static void main(String[] args) {
+		 
+
+	}
+
+}
